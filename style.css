@@ -1,0 +1,49 @@
+.box2{
+    width: 300px;
+    background-color: aliceblue;
+    text-align: center;
+    height: 400px;
+    border-radius: 13px;
+    padding-top: 80px;
+    
+   
+}
+.box{
+    width: 300px;
+    background-color: aliceblue;
+    text-align: center;
+    height: 200px;
+    border-radius: 13px;
+    
+    
+}
+.box1{
+    width: 300px;
+    background-color: aliceblue;
+    text-align: center;
+    height: 300px;
+    border-radius: 13px;
+    padding-top: 24px; 
+}
+.h1{
+    text-align: center;
+}
+.section{
+    display: flex;
+    justify-content:space-around;
+    width: 1400px;
+    text-align: center;
+    
+}
+.deli{
+    color: brown;
+}
+.vert{
+    color: brown;
+}
+.spas{
+    color: brown;
+}
+.bill{
+    color: brown;
+}
